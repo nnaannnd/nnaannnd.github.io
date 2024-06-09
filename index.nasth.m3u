@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2560px-KOMPAS_TV_%282017%29.svg.png" group-title="Indonesia",Kompas TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717938016/ei/AFNlZpiWJZmDi9oPkoecmA8/ip/86.107.43.88/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2oRiY5lp1RKelYTQ6FHfGgsvULRJTehnkgzS_91zT7iXmcgaHCpFFTSAJI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANUBE4ptmxzM9LNe6GkGn8jmZqy-T6sxZk7oAEibAjloAiEAhM0PaWPpWI9YHMHpyQLpaHJ0MEQJyIg0eG0kPSdCHdY%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1280px-TvOne_2023.svg.png" group-title="Indonesia",tvOne
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717938325/ei/NVRlZvDqCsyJ6dsPw9iSkA8/ip/86.107.43.88/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_h8m8W9HYYeEm4dxqmZAy3OiqSxrtX2ISJe1gBns_9xqKF7kdOe2Pdxkmk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMACEAConYPtWuqnKeGksTlfy8HlAs7PXLNvGvnsmBpMAiAsCDRJnqTSX4UJewMHjqjlqS-pHYn1HnhxZ67PiyM0Uw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/MetroTV_Logo_since_2010.svg" group-title="Indonesia",Metro TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717938445/ei/rVRlZpXWF7mIi9oP9cqIgA8/ip/86.107.43.88/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177561/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_BSzZHXN4ZI6GqZyz9yHu-UfKuBx8NhHq1FYYAeRQKlaawyLRkUmZuA2gs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbKLCPmk2d3498EdNJeQqZIAhKcrgn1VIBkNgJDG6AjkCIHeq7otpkTJ3auPuWZpK52LQf--Yn4N7YqVtbrf0_TR-/file/index.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia",iNewsTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717938682/ei/mlVlZq3DC8LB6dsPkO_jyAk/ip/86.107.43.88/id/51jiCfnkF3M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4nR7N0kGqLK8P3nzWHgK8b5OFoys9NqSkFMR3ZLLywZWZiPOA2elAU-apQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP3Qgyl25v7EuwSDUTlXLY8Gcxi8JLfbOI7PqSsANbzJAiB3qN8LXMK0bkiMpQPQLUaUkyxGTh-ja_1QcEEdIq6EKA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/340px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/340px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/340px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI SportHD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/340px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="Liputan6.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Liputan6_%282019%29_icon.svg/revision/latest/scale-to-width-down/250?cb=20230104002041w" group-title="Indonesia",Liputan6
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717939453/ei/nVhlZpGmBoy-i9oP9PGN4QU/ip/86.107.43.88/id/mpZaEzcNxFM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6FNQtIHPr60ZXnM4brU-PQ24OH1rbXpjrSgUTE3QJKNYB-Lze9TFVCWhOY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMEIEHueahX6cGLl3myuF_JayIF_IlR_-cpYRu_XT3u-AiEA4HXuOuZU9CP8iZz0EVXjZ67q_THu4d9LnN6YhsygjVs%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/logo-web-garuda.tv_-2-1.svg" group-title="Indonesia",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/logo-web-garuda.tv_-2-1.svg" group-title="Indonesia",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
